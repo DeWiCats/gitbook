@@ -1,6 +1,6 @@
 ---
 description: DeWiCats Docs
-cover: .gitbook/assets/dewi-header (6).png
+cover: .gitbook/assets/dewi-header (3).png
 coverY: 0
 ---
 
@@ -42,7 +42,7 @@ DeWiCats split of mining rewards will be distributed evenly among all holders ev
 
 ### How does the split work?
 
-DeWiCats will need to have contract deals with businesses or possibly government owned buildings. These splits could differ from business to business. Ideally the split would look like this: 1/3 to the business, 1/3 to DeWiCats DAO, 1/3 to the founders
+DeWiCats will need to have contract deals with businesses or possibly government owned buildings. These splits could differ from business to business. Ideally the split would look like this: 1/4 to the business, 2/4 to DeWiCats DAO & 1/4 to the founders.
 
 ### Where do secondary royalties go?
 
