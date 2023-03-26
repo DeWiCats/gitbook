@@ -34,7 +34,7 @@ To start we plan to give all DeWiCat holders equal voting power and plan to add 
 
 ### How are we deploying? <a href="#who-runs-olympus-1" id="who-runs-olympus-1"></a>
 
-Day 1 DeWiCats will have about 25 helium hotspots already deployed and about 50 million mobile tokens in the treasury ready to be disbursed among the holders. These first 50 million mobile tokens are called the genesis periods. Only early holders will benefit from this. Afterwards, rewards will only come from hotspots in the DAO.
+Day 1 DeWiCats will have about 25+ helium hotspots already deployed and about 50 million mobile tokens in the treasury ready to be disbursed among the holders. These first 50 million mobile tokens are called the genesis period. Only early holders will benefit from this. Afterwards, rewards will only come from hotspots in the DAO.
 
 ### How will rewards work?
 

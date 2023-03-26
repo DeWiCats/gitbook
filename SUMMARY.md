@@ -16,4 +16,3 @@
 ## ⛓ PROTOCOL INTERNALS
 
 * [🦀 DeWi Hydra Program](protocol-internals/dewi-hydra-program.md)
-* [🦀 DeWi Stake Program](protocol-internals/dewi-stake-program.md)

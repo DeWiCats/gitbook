@@ -6,11 +6,11 @@ Yes, coming soon!
 
 ### What is the exclusive funded DAO?
 
-DeWi Cats is a utility nft and with this comes many benefits. One of thes being you geting access to an exclusive fund holding helium miners. As a holder you get to decide what todo with these rewards. Yes by holding DeWiCats you will have voting power to decide where to deploy hotspots and where those rewards are allocated towards. Lets build the most powerful people powered DAO ever! 🚀
+DeWi Cats is a utility NFT and with this comes many benefits. One of these being you getting access to an exclusive fund holding helium miners. As a holder you get to decide what todo with these rewards. Yes by holding DeWiCats you will have voting power to decide where to deploy hotspots and where those rewards are allocated. Let's build the most powerful people powered PFP ever! 🚀
 
 ### Is there a guaranteed mint allowlist?
 
-Yes, this will be announced with more detail in the future. We’ll announce allowlist winners on premint.
+Yes, this will be announced with more detail in the future. We’ll announce allowlist winners on our twitter page can be verified on DeWiCats raffle page.
 
 ### What if some winners on the guaranteed mint allowlist do not mint?
 
@@ -26,9 +26,8 @@ One mint per wallet is allowed per allowlist winner.
 
 ### How are the 10,000 DeWiCats distributed?
 
-• 8,850: Public sale to allowlist winners \
-• 1,000: DeWiCat community members who contribute to the project will each receive 1 free mint \
-• 150: DeWiCats Treasury for future collaborations, marketing, and advisors
+• 9,850: Public sale to allowlist winners \
+• 150: DeWiCat community members who contribute to the project will each receive 1 free mint&#x20;
 
 ### What intellectual property rights do DeWiCats holders receive?
 
@@ -40,7 +39,7 @@ Owners of DeWiCats have full commercial art rights for the DeWiCat they own. Ful
 
 ### Is there a future roadmap?
 
-Here at DeWiCats we plan to take quality to the next level. That is why we plan to release DeWiCats with an exclusive DAO where DeWiCat holders will be able to vote and view the treasuries mining rewards. Additionally, DeWiCat holders will be able to stake there DeWiCat to earn even more rewards. In the future, we plan to release Project DewiVerse, our unique take on the Metaverse.
+Here at DeWiCats we plan to take quality to the next level. That is why we plan to release DeWiCats with an exclusive DAO where DeWiCat holders will be able to vote on where to deploy hotspots and how rewards are allocated. In the future, we plan to release a DeWiCats Web3 game leveraging hotspot beacons & witnesses.
 
 ### What are secondary royalties and how will they be used?
 
