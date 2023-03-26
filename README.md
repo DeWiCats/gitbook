@@ -1,6 +1,6 @@
 ---
 description: DeWiCats Docs
-cover: .gitbook/assets/dewi-header (2).png
+cover: .gitbook/assets/dewi-header (3).png
 coverY: 0
 ---
 
