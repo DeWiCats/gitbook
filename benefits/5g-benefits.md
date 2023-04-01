@@ -1,5 +1,7 @@
 # 🔵 5G Benefits
 
+The Helium 5G network offers several benefits, including:
+
 1. Greater resilience: A decentralized 5G network is more resilient to failures and attacks because it doesn't rely on a single centralized entity. This means that the network can continue to operate even if some nodes or segments are offline or compromised.
 2. Increased security: Decentralized 5G networks are more secure because they don't have a central point of failure. Distributed encryption and security protocols can make it more difficult for hackers to breach the network.
 3. Greater privacy: Decentralized 5G networks can provide greater privacy because user data is distributed across the network rather than being stored in a central location.
