@@ -16,3 +16,12 @@
 ## ⛓ PROTOCOL INTERNALS
 
 * [🦀 DeWi Hydra Program](protocol-internals/dewi-hydra-program.md)
+
+## 📡 Deployments
+
+* [🌴 Miami Proposal](deployments/miami-proposal.md)
+
+## 🫂 Benefits
+
+* [🟢 IOT Benefits](benefits/iot-benefits.md)
+* [🔵 5G Benefits](benefits/5g-benefits.md)
