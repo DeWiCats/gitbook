@@ -8,14 +8,10 @@
 
 ## Using DeWiCats
 
-* [💎 Rewards](using-dewicats/rewards.md)
+* [📶 5G for low income families](using-dewicats/5g-for-low-income-families.md)
 * [🤝 Improvement Proposals](using-dewicats/improvement-proposals.md)
 * [🗳 Voting](using-dewicats/voting.md)
 * [🐱 Buying a DeWiCat ](using-dewicats/buying-a-dewicat.md)
-
-## ⛓ PROTOCOL INTERNALS
-
-* [🦀 DeWi Hydra Program](protocol-internals/dewi-hydra-program.md)
 
 ## 📡 Deployments
 
