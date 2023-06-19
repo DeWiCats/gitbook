@@ -36,14 +36,6 @@ To start we plan to give all DeWiCat holders equal voting power and plan to add 
 
 Day 1 DeWiCats will have about 25+ helium hotspots already deployed and about 50 million mobile tokens in the treasury ready to be disbursed among the holders. These first 50 million mobile tokens are called the genesis period. Only early holders will benefit from this. Afterwards, rewards will only come from hotspots in the DAO.
 
-### How will rewards work?
-
-DeWiCats split of mining rewards will be distributed evenly among all holders everyday and need to be redeemed via the DeWiCats dApp.
-
-### How does the split work?
-
-DeWiCats will need to have contract deals with businesses or possibly government owned buildings. These splits could differ from business to business. Ideally the split would look like this: 1/4 to the business, 2/4 to DeWiCats DAO & 1/4 to the founders.
-
 ### Where do secondary royalties go?
 
 \- 1% Helium Foundation
