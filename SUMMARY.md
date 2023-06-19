@@ -5,6 +5,7 @@
 ## BASICS
 
 * [❓ FAQ ](basics/faq.md)
+* [📝 Roadmap](basics/roadmap.md)
 
 ## Using DeWiCats
 
